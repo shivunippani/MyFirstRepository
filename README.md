@@ -1,2 +1,4 @@
 # MyFirstRepository
-this is the first git repository
+This is the first git repository
+
+Author- Shivu Nippani
